@@ -1,5 +1,5 @@
 /*
- *   UCF COP3330 SUMMER 2021 ASSIGNMENT 6 SOLUTION
+ *   UCF COP3330 SUMMER 2021 ASSIGNMENT 8 SOLUTION
  *   COPYRIGHT 2021 RAYME PERSAD
  */
 
@@ -13,7 +13,7 @@ If there are leftovers, show the number of leftover pieces.
 package org.example;
 import java.util.Scanner;
 
-public class practiceexample6 {
+public class practiceexample8 {
     public static void main(String[] args) {
 
         int people, pizzas, slices, total, quotient,remainder; //declare variables
